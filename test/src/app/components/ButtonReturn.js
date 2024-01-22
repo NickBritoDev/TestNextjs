@@ -1,3 +1,4 @@
+'use client'
 import React, { useState } from 'react'
 import { Button, Spinner, Text } from '@chakra-ui/react'
 import Link from 'next/link'

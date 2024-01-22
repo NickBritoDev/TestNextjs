@@ -31,7 +31,7 @@ const ButtonConfirmOrCancel = ({ visibility }) => {
         <Text>Cancelar</Text>
         {isLoadingCancel && <Spinner />}
       </Button>
-      <Link href={'/payment'}>
+      <Link href={'/'}>
         <Button
           colorScheme={'whatsapp'}
           onClick={() => {

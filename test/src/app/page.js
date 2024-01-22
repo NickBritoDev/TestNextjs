@@ -3,8 +3,8 @@ import React from 'react'
 import { Flex } from '@chakra-ui/react'
 import ticket from '@/images/ticket.png'
 import OptionClickHome from './components/OptionClickHome'
-import BoxTitle from './components/BoxTitle'
 import ImagePage from './components/ImagePage'
+import BoxTitle from './components/BoxTitle'
 
 export default function Home () {
   return (
